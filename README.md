@@ -6,15 +6,7 @@ Apaixonada por código, front-end e capturar momentos únicos.
 ---
 
 ## 🔭 Atualmente
-- Estudando Java, HTML, CSS e front-end.
-- Criando projetos web e explorando APIs.
-
----
-
-## 🌱 Aprendendo
-- TypeScript, React e animações web.
-- Melhorando lógica de programação com projetos práticos.
-
+- Estudando Java.
 ---
 
 ## 💻 Linguagens que mais uso
