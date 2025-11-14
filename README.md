@@ -29,7 +29,7 @@ Apaixonada por código, front-end e capturar momentos únicos.
 
 ## 🛠 Projetos em destaque
 ### Java Projects
-[Ver no GitHub](https://github.com/anachxz/java)  
+[Ver no GitHub](https://github.com/anachxz/TudoEmJava.git)  
 
 ### Arduino Daily Projects
 [Ver no GitHub](https://github.com/anachxz/ArduinoDailyProjetects)  
