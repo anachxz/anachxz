@@ -7,6 +7,7 @@ Apaixonada por código, front-end e capturar momentos únicos.
 
 ## 🔭 Atualmente
 - Estudando Java.
+- Estudando Javascript, HTML e CSS
 ---
 
 ## 💻 Linguagens que mais uso
