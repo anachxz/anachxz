@@ -21,11 +21,16 @@ Apaixonada por código, front-end e capturar momentos únicos.
 
 
 ## 🛠 Projetos em destaque
-### Java Projects
+
+### Tudo que aprendi em Java
 [Ver no GitHub](https://github.com/anachxz/TudoEmJava.git)  
 
-### Arduino Daily Projects
+### Arduino 
 [Ver no GitHub](https://github.com/anachxz/ArduinoDailyProjetects)  
+
+### Tudo que aprendi em JavaScript, HTML e CSS
+[Ver no GitHub](https://github.com/anachxz/Linguagemdeprograma-o.git)  
+
 
 ---
 
